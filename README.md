@@ -1,7 +1,7 @@
 Hi 👋 My name is Mountasser
 ===========================
 
-Computer Science Engineer
+Computer Scientist
 -------------------------
 
 I am currency a National School for Computer Science undergraduate, following Information Technology applied in Finance expertise path, chiefly Data major fields. I am also into Blockchain, Computer Vision, and Web Dev.
