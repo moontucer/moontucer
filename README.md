@@ -17,3 +17,7 @@ I am currency a National School for Computer Science undergraduate, following In
 <a href="https://www.linkedin.com/in/mountasser" target="_blank" rel="noreferrer"><img
 src="https://cdn-icons-png.flaticon.com/512/174/174857.png&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+
+<div>
+		<a href="https://www.linkedin.com/in/ahmedmrabet/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
