@@ -15,7 +15,7 @@ I am currency a National School for Computer Science undergraduate, following In
 * ⚡  Happy and passionate guy who loves sports, programming and innovation.
 
 <a href="https://www.linkedin.com/in/mountasser" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/unaveragestoic?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://cdn-icons-png.flaticon.com/512/174/174857.png&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
