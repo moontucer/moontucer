@@ -8,13 +8,13 @@ I am currency a National School for Computer Science undergraduate, following In
 
 * 🌍  I'm based in Rabat, Morocco
 * 🖥️  See my portfolio at [Mountasser e-Portfolio](https://mountasser.me/)
-* ✉️  You can contact me at [moontucer@icloud.com](mailto:moontucer@icloud.com)
-* 🚀  I'm currently working on [Cross-Platform Currency Converter](http://github.com/moontucer/Currency-Converter-Application)
-* 🧠  I'm learning Dart, Flutter, React.js, Node.js, Firebase, Figma and Adobe XD.
-* 🤝  I'm open to collaborating on Web and Mobile Dev Projects.
-* ⚡  Happy and passionate guy who loves sports, travel and business.
+* ✉️  You can contact me via [email](mailto:xmountasser@gmail.com)
+* 🚀  I'm currently working on LLMs and GenAI at Oracle Labs.
+* 🧠  I'm learning and creating things with data engineering tools.
+* 🤝  I'm open to collaborating on data engineering, BI and analytics, data science, ML/AI projects.
+* ⚡  Happy and passionate guy who loves sports, programming and innovation.
 
-<a href="https://www.twitter.com/unaveragestoic" target="_blank" rel="noreferrer"><img
+<a href="https://www.linkedin.com/in/mountasser" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/unaveragestoic?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
