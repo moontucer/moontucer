@@ -14,6 +14,6 @@ I am currency a National School for Computer Science undergraduate, following In
 * 🤝  I'm open to collaborating on projects involving software and ML.
 * ⚡  Happy and passionate guy who loves building creative solutions!
 
-<div>
-Connect with me on: <a href="https://www.linkedin.com/in/ahmedmrabet/" target="_blank">
+Connect with me on:
+<a href="https://www.linkedin.com/in/ahmedmrabet/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
