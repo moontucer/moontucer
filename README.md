@@ -16,6 +16,6 @@ I am currency a National School for Computer Science undergraduate, following In
 
 Click down below to connect with me on LinkedIn.
 <div>
-<a href="https://www.linkedin.com/in/ahmedmrabet/" target="_blank">
+<a href="https://www.linkedin.com/in/mountasser/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
